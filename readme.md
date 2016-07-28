@@ -9,7 +9,7 @@ to simplify that.
 
 1. Edit the files
 
-2. ```$ make``
+2. ``$ make``
 
 3. Surf to localhost:8189
 
